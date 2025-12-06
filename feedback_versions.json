@@ -1,13 +1,6 @@
 {
   "feedback_versions": {
-    "osaka_fu": {
-      "version": "2025-12-01-1605",
-      "json_url": "https://your-netlify-or-s3/osaka_feedback_20251201-1605.json"
-    },
-    "tokyo_to": {
-      "version": "2025-12-03-0930",
-      "json_url": "https://.../tokyo_feedback_20251203-0930.json"
-    }
-    // 其他 45 个地区...
+    "osaka_fu": "2025-12-06-1135",
+    "tokyo_to": "2025-12-06-0930"
   }
 }
